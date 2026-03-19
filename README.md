@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1185873498.svg)](https://doi.org/10.5281/zenodo.19104205)
+
 # QUBO-Based Quantum-Inspired Simulated Annealing for Multi-Machine Energy Scheduling
 
 **Authors:** I.J. Mesoga, Ziv Atienza, David Marcelino
